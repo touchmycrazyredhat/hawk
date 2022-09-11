@@ -2,7 +2,7 @@
 # Hawk
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![Size](https://img.shields.io/github/repo-size/medpaf/hawk)
+![Size](https://img.shields.io/github/repo-size/touchmycrazyredhat/hawk)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://www.linuxfoundation.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -69,7 +69,7 @@ This script was tested on:
 
 To install the necessary packages so that the script can run withouth any problems simply run the `setup.sh` script with root privileges. Currently, this installation script is only supported on Debian, Red Hat and Arch based distros that has the apt, dnf and pacman package manager respectively (***Ubuntu***, ***Kali Linux***, ***Parrot OS***, ***Debian***, ***Pop!_OS***, ***Linux Mint***, ***Deepin***, ***Zorin OS***, ***MX Linux***, ***Elementary OS***, ***Fedora***, ***CentOS***, ***Red Hat Enterprise Linux***, ***Rocky Linux***, ***AlmaLinux***, ***Oracle Linux***, ***ClearOS***, ***Arch***, ***Black Arch***, ***Manjaro***, etc). On most systems, to install Hawk simply run the following commands:
 ```
-git clone https://github.com/medpaf/hawk.git
+git clone https://github.com/touchmycrazyredhat/hawk.git
 cd hawk
 sudo sh setup.sh
 ```
